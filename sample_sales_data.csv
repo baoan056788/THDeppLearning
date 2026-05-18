@@ -1,0 +1,5 @@
+﻿Region,Segment,Sales,Cost,Profit,Channel
+HN,Retail,120,80,40,Online 
+HCM,Corporate,150,95,55,Offline
+DN,Retail,98,60,38,Online 
+HN,SMB,210,130,80,Offline
